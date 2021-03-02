@@ -1,0 +1,3 @@
+Score for alignment of seq1 to seq2 is 3
+Score for alignment of seq1 to seq3 is 1
+Score for alignment of seq2 to seq3 is 3
